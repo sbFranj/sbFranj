@@ -46,10 +46,10 @@
 
 ## Connect with me  
 <div align="center">
-<a href="https://linkedin.com/in/https://es.linkedin.com/in/francisco-jes%C3%BAs-s%C3%A1nchez-ben%C3%ADtez-4b95061a9" target="_blank">
+<a href="https://linkedin.com/in/francisco-jes%C3%BAs-s%C3%A1nchez-ben%C3%ADtez-4b95061a9" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://instagram.com/https://www.instagram.com/d.rhepair/" target="_blank">
+<a href="https://instagram.com/d.rhepair/" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
 <a href="https://github.com/sbFranj" target="_blank">
