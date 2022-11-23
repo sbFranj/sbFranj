@@ -1,4 +1,8 @@
-<h1 align="center">Hi 👋, I'm Fran Sánchez</h1>
+<h1 align="center">Hi 👋, im...</h1>
+
+
+![banner](https://github.com/sbFranj/RecursosGraficos/blob/main/BannerGithub.jpg)
+
 <h3 align="center">A student of IES Jacaranda</h3>
 
 - 💠 I’m currently learning **Python**
