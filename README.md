@@ -3,13 +3,12 @@
 
 ![banner](https://github.com/sbFranj/RecursosGraficos/blob/main/BannerGithub.jpg)
 
-<h3 align="center">A student of IES Jacaranda</h3>
 
-- 💠 I’m currently learning **Python**
+- ⛩️ I’m currently learning **Web Application Design(_DAW_)** at IES Jacaranda (Sevilla, Spain) ⛩️
 
-- ⭐ I’m looking to collaborate on **developer job**
+- ⛩️ I’m looking to collaborate on **developer job** ⛩️
 
-- ⚡ Fun fact **I am a computer and telecommunications technician**
+- ⛩️ Fun fact **I am a computer and telecommunications technician** ⛩️
 
 
   
@@ -22,8 +21,9 @@
 
 
 
-### Languages and Tools:  
-<div align="center">  
+###  Languages and Tools 
+
+<div align="left">  
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="50" /></a>  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
 <a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
@@ -46,6 +46,7 @@
 </td></tr></table>  
 
 <br/>  
+
 
 
 ## Connect with me  
