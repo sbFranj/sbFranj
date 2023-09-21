@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, im...</h1>
 
 
-![banner](https://github.com/sbFranj/RecursosGraficos/blob/main/BannerGithub.jpg)
+![banner](https://github.com/sbFranj/RecursosGraficos/blob/main/BannerGithub2.png)
 
 
 - ⛩️ I’m currently learning **Web Application Design(_DAW_)** at IES Jacaranda (Sevilla, Spain) ⛩️
