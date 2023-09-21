@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, im...</h1>
+<h1 align="center">Hi 👋</h1>
 
 
 ![banner](https://github.com/sbFranj/RecursosGraficos/blob/main/BannerGithub2.png)
