@@ -124,11 +124,11 @@ I am a web application developer, a higher technician in telecommunications, and
 
 ## Connect with me  
 <div align="center">
-<a href="www.linkedin.com/in/franjsanchezben" target="_blank">
+<a href="www.linkedin.com/in/franjsanchezben" target="_blank" rel="noopener noreferrer">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" /></a>
-<a href="https://instagram.com/d.rhepair/" target="_blank">
+<a href="https://instagram.com/d.rhepair/" target="_blank" rel="noopener noreferrer">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" /></a>
-<a href="https://fransanchez.vercel.app/project" target="_blank">
+<a href="https://fransanchez.vercel.app/project" target="_blank" rel="noopener noreferrer">
 <img width=111 heigth=28 src=https://github.com/sbFranj/RecursosGraficos/blob/main/porfolio.png alt=github style="margin-bottom: 5px;" /></a>
 </div>  
 
