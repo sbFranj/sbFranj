@@ -103,7 +103,13 @@ I am a web application developer, a higher technician in telecommunications, and
       <a href="https://www.linux.org/" target="_blank">
         <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" width="50" height=50" /></a>  
       <a href="https://www.arduino.cc/" target="_blank">
-        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/arduino.png" alt="Arduino" width="50" height=50" /></a>  
+        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/arduino.png" alt="Arduino" width="50" height=50" /></a>
+      <a href="https://es.wikipedia.org/wiki/Extensible_Markup_Language" target="_blank">
+        <img style="margin: 10px" src="https://fransanchez.vercel.app/assets/logos/xml.svg" alt="" width="50" height=50" /></a>
+      <a href="https://www.oracle.com/es/database/what-is-json/#:~:text=JSON%20no%20es%20un%20archivo,entre%20aplicaciones%20web%20y%20servidores." target="_blank">
+        <img style="margin: 10px" src="https://cdn-icons-png.freepik.com/512/136/136525.png" alt="" width="50" height=50" /></a>
+      <a href="https://es.wikipedia.org/wiki/JavaServer_Pages" target="_blank">
+        <img style="margin: 10px" src="https://github.com/sbFranj/RecursosGraficos/blob/main/jsp.png" alt="" width="50" height=50" /></a>
     </td><!-- Others END-->
   </tr>
 </table>
